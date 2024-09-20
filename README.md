@@ -1,2 +1,10 @@
 # Prompt-to-Prompt
-Slight modifications on the original [Prompt-to-Prompt](https://github.com/google/prompt-to-prompt) to make it a portable library
+
+## Overview
+
+This repo is a modified version of the original [Prompt-to-Prompt](https://github.com/google/prompt-to-prompt) repo as a portable library.
+
+## Usage
+
+> This repo requires the [Unified-SD-Pipeline](https://github.com/zcc31415926/Unified-SD-Pipeline) repo.
+
